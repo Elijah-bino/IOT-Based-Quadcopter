@@ -6,7 +6,7 @@ I extend my sincere gratitude to Joop Broking youtube channel for a comperhenciv
 Please watch that for reference, but not everything is the same becasuse the video is about radio controlled drone, but ours is controlled via internet.
 
 
-#STEP 1
+# STEP 1
 Make the connetion as per the schematic provided.
 
 The component used are
@@ -20,22 +20,22 @@ The component used are
 8. S500 Frame
 9. 9v battery
 
-#STEP 2
+# STEP 2
 After making the connection Load the Setup file to Arduino and run, keep the drone stable while running the code.
 
-#STEP 3
+# STEP 3
 After that load ESC_Calibration code to Arduino and Run the code. Follow the instruction as promted in serial monitor
 
-#STEP 4
+# STEP 4
 After that load the Flight_controler code. 
 
-#STEP 5
+# STEP 5
 After that load the Radio_sim code to the Nodemcu and run it. Make sure that it can successfully connect to the googe firebase realtime database.
 
-#STEP 6
+# STEP 6
 Open the MITApp inventor app and load the code given. This is the application through which we will controll the drone.
 
-#STEP 7
+# STEP 7
 Callibration is very important, in step 3 the overall vibration value must stay bellow 55. You can use insulation tape on top of proppeller leaf to reduce friction thus reducing vibration.
 
 #STEP 8 
