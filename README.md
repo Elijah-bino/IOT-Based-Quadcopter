@@ -38,7 +38,7 @@ Open the MITApp inventor app and load the code (MitApp_Radio_Controller.aia) giv
 # STEP 7
 Callibration is very important, in step 3 the overall vibration value must stay bellow 55. You can use insulation tape on top of proppeller leaf to reduce friction thus reducing vibration.
 
-#STEP 8 
+# STEP 8 
 Fire up the Quadcopter wait for the beep, then connect the power to arduino and Nodemcu. Then your good to go. If we keep a wifi dongle on top of the drone we have more wider network coverage.
 
 
