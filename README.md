@@ -33,7 +33,7 @@ After that load the Flight_controler code.
 After that load the Radio_sim code to the Nodemcu and run it. Make sure that it can successfully connect to the googe firebase realtime database.
 
 # STEP 6
-Open the MITApp inventor app and load the code given. This is the application through which we will controll the drone.
+Open the MITApp inventor app and load the code (MitApp_Radio_Controller.aia) given. This is the application through which we will control the drone.
 
 # STEP 7
 Callibration is very important, in step 3 the overall vibration value must stay bellow 55. You can use insulation tape on top of proppeller leaf to reduce friction thus reducing vibration.
